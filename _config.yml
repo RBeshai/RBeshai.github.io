@@ -146,8 +146,8 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - teaching
-  - portfolio
+  - _teaching
+  - _portfolio
   - guide
 keep_files:
   - .git
