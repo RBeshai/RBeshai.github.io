@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ryan Beshai - Marine Ecologist"
 title_separator          : "-"
 name                     : &name "Ryan Beshai"
-description              : &description "First steps in learning to build a website!"
+description              : &description "Welcome in!"
 url                      : https://RBeshai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "ProfileImage.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Irvine, CA"
-  employer         :
+  employer         : "University of California, Irvine"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fKeJNJUAAAAJ&hl=en&oi=ao"
   email            : "rbeshai@uci.edu"
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "ryan-beshai-647590139"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5319-2235"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
