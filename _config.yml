@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ryan Beshai"
   avatar           : "ProfileImage.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I'm a marine ecologist, studying invasive species and climate-driven redistributions"
   location         : "Irvine, CA"
   employer         : "University of California, Irvine"
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RBeshai"
+  github           : "https://github.com/rBeshai"
   google_plus      :
   keybase          :
   instagram        :
