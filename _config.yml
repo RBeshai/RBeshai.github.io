@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ryan Beshai - Marine Ecologist"
+title                    : "SITE UNDER CONSTRUCTION"
 title_separator          : "-"
 name                     : &name "Ryan Beshai"
-description              : &description "SITE UNDER CONSTRUCTION"
+description              : &description "Marine Ecologist"
 url                      : https://RBeshai.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RBeshai/RBeshai.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Ryan Beshai"
   pronouns         : "He/Him"  
-  bio              : "Marine ecologist interested in non-native and neo-native species dynamics"
+  bio              : "Ph.D. Candidate at UC Irvine"
   location         : "Irvine, CA"
   employer         : "University of California, Irvine"
   uri              : # URL
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
