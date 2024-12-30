@@ -12,7 +12,7 @@ title                    : "Ryan Beshai - Marine Ecologist"
 title_separator          : "-"
 name                     : &name "Ryan Beshai"
 description              : &description "SITE UNDER CONSTRUCTION"
-url                      : https://RBeshai.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://RBeshai.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RBeshai/RBeshai.github.io"
 
