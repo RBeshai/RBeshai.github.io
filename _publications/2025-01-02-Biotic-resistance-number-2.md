@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "Changing the title"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-Biotic-resistance-number-2
