@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2019-webworms-number-1
 date: 2019-05
 venue: 'Southwestern Entomologist'
-paperurl: 'http://academicpages.github.io/files/Beshai, Barnes, and Murphy 2019.pdf'
+paperurl: 'http://RBeshai.github.io/files/Beshai, Barnes, and Murphy 2019.pdf'
 citation: 'Beshai, R. A., Barnes, E. E., & Murphy, S. M. (2019). The Role of Enemy-mediated Competition in Determining Fitness of a Generalist Herbivore. Southwestern Entomologist, 44(1), 69-77.'
 ---
 
