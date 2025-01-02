@@ -5,6 +5,6 @@ category: manuscripts
 permalink: /publication/2022-biotic-resistance-number-2
 date: 2022-10-05
 venue: 'Biological Invasions'
-paperurl: 'http://RBeshai.github.io/files/inserturl.pdf'
+paperurl: 'http://RBeshai.github.io/files/files/Beshai et al. (2022) Biotic resistance or invasional meltdown - diversity reduces invasibility but not exotic dominance.pdf'
 citation: 'Beshai, R. A., Truong, D. A., Henry, A. K., & Sorte, C. J. (2023). Biotic resistance or invasional meltdown? Diversity reduces invasibility but not exotic dominance in southern California epibenthic communities. Biological Invasions, 25(2), 533-549.'
 ---
