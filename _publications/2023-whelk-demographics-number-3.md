@@ -1,5 +1,5 @@
 ---
-title: "]Demography across latitudinal and elevational gradients for range-expanding whelks.](https://www.int-res.com/abstracts/meps/SHIFT/p_av6/)"
+title: "[Demography across latitudinal and elevational gradients for range-expanding whelks.](https://www.int-res.com/abstracts/meps/SHIFT/p_av6/)"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
