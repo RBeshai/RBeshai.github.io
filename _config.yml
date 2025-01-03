@@ -24,7 +24,7 @@ author:
   avatar           : "profilephoto.jpg"
   name             : "Ryan Beshai"
   pronouns         : "He/Him"  
-  bio              : "Ph.D. Candidate at UC Irvine"
+  bio              : "Ph.D. Candidate at UC, Irvine"
   location         : "Irvine, CA"
   employer         : "University of California, Irvine"
   uri              : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "RBeshai"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -76,10 +76,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Textbook Chapters'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles' 
+  books:
+    title: 'Textbook Chapters'   
   conferences:
     title: 'Conference Papers'
 
