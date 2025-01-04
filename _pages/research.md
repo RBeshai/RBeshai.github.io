@@ -8,7 +8,7 @@ Climatic warming is causing species to undergo broad-scale geographic redistribu
 
 Therefore, my current reserach focuses on developing frameworks that can be used to predict the impact of neonative speies on recipient populations and communities prior to (or during) expansion. To do so, I am (1) conducting a regional-scale experiment, leveraging the expansions of two intertidal predators, the whelks *Acanthinucella spirata* and *Mexacanthina lububris* (pictured below: *Acanthinucella* left, *Mexacanthina* right), to test predictions derived from invasion biology theory, and (2) conducting a global-scale meta-analysis to apply the [EICAT risk-assessment framework](https://iucn.org/resources/conservation-tool/environmental-impact-classification-alien-taxa) to neonative species.
 
-![Whelks](images/Whelks.jpg)
+![Whelks.jpg](images/Whelks.jpg "Whelk spp. on rock")
 
 ## Interactions Between Invasive Species 
 
