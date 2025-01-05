@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ryan Beshai, Ecologist"
+title                    : "Ryan Beshai - Marine Ecologist"
 title_separator          : "-"
 name                     : &name "Ryan Beshai"
 description              : &description "Marine Ecologist"
@@ -78,7 +78,7 @@ author:
 publication_category:
   manuscripts:
     title: 'Journal Articles' 
-  books:
+  textbooks:
     title: 'Textbook Chapters'   
   conferences:
     title: 'Conference Papers'
