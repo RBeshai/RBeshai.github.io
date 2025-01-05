@@ -1,7 +1,7 @@
 ---
 title: "[Interactions Between Climate Change and Species Invasions in the Marine Realm](https://www.cabidigitallibrary.org/doi/abs/10.1079/9781800621459.0007)"
 collection: publications
-category: books
+category: textbooks
 permalink: /publication/2022-cabi-invasives-textbook-number-4
 date: 2022-12-19
 venue: 'CAB International'
