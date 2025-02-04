@@ -19,7 +19,7 @@ Therefore, my current research focuses on developing frameworks that can be used
 
 (2) Waite et al. (2023). [Demography across latitudinal and elevational gradients for range-expanding whelks.](https://par.nsf.gov/biblio/10515642-demography-across-latitudinal-elevational-gradients-range-expanding-whelks)
 
-**Data**
+**Data:**
 Intertidal community survey data can be downloaded from BCO-DMO: [https://www.bco-dmo.org/dataset/935622](https://www.bco-dmo.org/dataset/935622)
 
 **Collaborators (Alphabetically):** Paul E. Bourdeau (*California State Polytechnic University, Humboldt*), Lydia B. Ladah (*Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California, Mexico*), Julio Lorda (*Universidad Autónoma de Baja California, Mexico*), Cascade J.B. Sorte (Advisor, *University of California, Irvine*), and Heidi Waite (currently at *California Ocean Science Trust*)
