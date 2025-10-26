@@ -24,11 +24,11 @@ author:
   avatar           : "profilephoto.jpg"
   name             : "Ryan Beshai"
   pronouns         : "He/Him"  
-  bio              : "Ph.D. Candidate at UC, Irvine"
-  location         : "Irvine, CA"
-  employer         : "University of California, Irvine"
+  bio              : "Postdoctoral Scholar at UC, Santa Cruz"
+  location         : "Santa Cruz, CA"
+  employer         : "University of California, Santa Cruz"
   uri              : # URL
-  email            : "rbeshai@uci.edu" 
+  email            : "rabeshai@uci.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
