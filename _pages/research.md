@@ -14,12 +14,12 @@ Therefore, my current research focuses on developing frameworks that can be used
 <img src="/images/Whelks.jpg" alt="Whelks" style="max-width:100%; height:auto; width:5in;">
 
 **Products:**
-(1) Beshai and Sorte. A General Framework for Predicting the Effects of Marine Range-Expanding Species Worldwide *In Prep.*
+1. Beshai and Sorte. A General Framework for Predicting the Effects of Marine Range-Expanding Species Worldwide *In Prep.*
 
-(2) Beshai et al. Applying invasion biology frameworks to predict impacts of range-expanding 
+2. Beshai et al. Applying invasion biology frameworks to predict impacts of range-expanding 
     predators. *In Review at Ecology*
 
-(3) Waite et al. (2023). [Demography across latitudinal and elevational gradients for range-expanding whelks.](https://www.int-res.com/abstracts/meps/v728/meps14349)
+3. Waite et al. (2023). [Demography across latitudinal and elevational gradients for range-expanding whelks.](https://www.int-res.com/abstracts/meps/v728/meps14349)
 
 **Data:**
 Intertidal community survey data can be downloaded from BCO-DMO: [https://www.bco-dmo.org/dataset/935622](https://www.bco-dmo.org/dataset/935622)
@@ -66,14 +66,14 @@ The importance of direct competitive interactions in controlling population size
 
 **Collaborators (Manuscript Order)**: Elizabeth E. Barnes (*Purdue University*), Shannon M. Murphy (advisor, *University of Denver*)
 
-# Other Scientific Contributions
+# Other (Non-Author) Scientific Contributions
 
 ## U.S. Geological Survey, Western Ecological Research Center
 
 The San Francisco Bay Estuary provides critical habitat for a wide range of ecologically and commercially important species but faces substantial anthropogenic pressures. Extensive diking, draining, and dredging has transformed the estuary from a tidal marsh–dominated landscape into one primarily characterized by open water and managed ponds. This large-scale alteration resulted in the loss of approximately 77% of historical wetland habitats, fundamentally reshaping the structure and function of estuarine food webs. Benthic invertebrate communities, which serve as key prey for native fishes such as the endangered Delta Smelt (Hypomesus transpacificus) and for migratory waterbirds, are likely to be particularly affected by these changes. Yet, it remains uncertain how these communities—and the energy pathways they support—will respond to ongoing restoration of tidal marshes and other ecosystem-scale interventions across the Bay. Therefore, as a Biological Science Technician at USGS, I led and supported projects that sought to answer questions about the health of these critical prey communities, including:
 
-(1) Can the restoration of degraded saltmarsh habitats help recover energy pathways that support native fishes?
-(2) How does periodic marina dredging affect the abundance of key prey taxa and the composition of benthic communities? 
+1. Can the restoration of degraded saltmarsh habitats help recover energy pathways that support native fishes?
+2. How does periodic marina dredging affect the abundance of key prey taxa and the composition of benthic communities? 
 
 <p align="center">
   <img src="/images/TidalRTK.jpg" alt="RTK" style="width:30%; margin-right:1%;">
@@ -81,7 +81,7 @@ The San Francisco Bay Estuary provides critical habitat for a wide range of ecol
   <img src="/images/LoadedBoat.jpg" alt="Barnacles" style="width:30%;">
 </p>
 
-**Products resulting from technican work**
-(1) [Does tidal marsh restoration lead to the recovery of trophicpathways that support estuarine fishes?](https://doi.org/10.1002/eap.70110)
+**Products resulting from technican work:**
+1. [Does tidal marsh restoration lead to the recovery of trophicpathways that support estuarine fishes?](https://doi.org/10.1002/eap.70110)
 
-(2) [Impacts of Periodic Dredging on Macroinvertebrate Prey Availability for Benthic Foraging Fishes in Central San Francisco Bay, California](https://pubs.usgs.gov/publication/ofr20201086)
+2. [Impacts of Periodic Dredging on Macroinvertebrate Prey Availability for Benthic Foraging Fishes in Central San Francisco Bay, California](https://pubs.usgs.gov/publication/ofr20201086)
