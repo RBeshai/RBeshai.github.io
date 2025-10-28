@@ -81,7 +81,7 @@ The San Francisco Bay Estuary provides critical habitat for a wide range of ecol
   <img src="/images/LoadedBoat.jpg" alt="Barnacles" style="width:30%;">
 </p>
 
-**Products resulting from technican work:**
-1. [Does tidal marsh restoration lead to the recovery of trophicpathways that support estuarine fishes?](https://doi.org/10.1002/eap.70110)
+**I didn't author but that I contributed to:**
+1. [Does tidal marsh restoration lead to the recovery of trophic pathways that support estuarine fishes?](https://doi.org/10.1002/eap.70110)
 
 2. [Impacts of Periodic Dredging on Macroinvertebrate Prey Availability for Benthic Foraging Fishes in Central San Francisco Bay, California](https://pubs.usgs.gov/publication/ofr20201086)
