@@ -19,12 +19,14 @@ Therefore, my current research focuses on developing frameworks that can be used
 2. Beshai et al. Applying invasion biology frameworks to predict impacts of range-expanding 
     predators. *In Review at Ecology*
 
-3. Waite et al. (2023). [Demography across latitudinal and elevational gradients for range-expanding whelks.](https://www.int-res.com/abstracts/meps/v728/meps14349)
+3. Suen et al. (2025). [The Impact of a Range-Shifting Predator Is Affected by Prey Preference and Composition](https://doi.org/10.1002/ece3.72538)
+
+4. Waite et al. (2023). [Demography across latitudinal and elevational gradients for range-expanding whelks.](https://www.int-res.com/abstracts/meps/v728/meps14349)
 
 **Data:**
 Intertidal community survey data can be downloaded from BCO-DMO: [https://www.bco-dmo.org/dataset/935622](https://www.bco-dmo.org/dataset/935622)
 
-**Collaborators (Alphabetically):** Paul E. Bourdeau (*California State Polytechnic University, Humboldt*), Lydia B. Ladah (*Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California, Mexico*), Julio Lorda (*Universidad Autónoma de Baja California, Mexico*), Cascade J.B. Sorte (Advisor, *University of California, Irvine*), and Heidi Waite (currently at *California Ocean Science Trust*)
+**Collaborators (Alphabetically):** Paul E. Bourdeau (*California State Polytechnic University, Humboldt*), Lydia B. Ladah (*Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California, Mexico*), Julio Lorda (*Universidad Autónoma de Baja California, Mexico*), Cascade J.B. Sorte (Advisor, *University of California, Irvine*), Kyle J. Suen (*University of California, Irvine*), and Heidi Waite (currently at *California Ocean Science Trust*)
 
 
 ## Interactions Between Invasive Species 
