@@ -14,17 +14,16 @@ Therefore, my current research focuses on developing frameworks that can be used
 <img src="/images/Whelks.jpg" alt="Whelks" style="max-width:100%; height:auto; width:5in;">
 
 **Products:**
-1. Beshai and Sorte. A General Framework for Predicting the Effects of Marine Range-Expanding Species Worldwide *In Prep.*
+1. Beshai and Sorte. A General Framework for Predicting the Effects of Marine Range-Expanding Species Worldwide *In Review at PNAS.*
 
-2. Beshai et al. Applying invasion biology frameworks to predict impacts of range-expanding 
-    predators. *In Review at Ecology*
+2. Beshai et al. (2026) [Applying invasion biology frameworks to predict the impacts of range expanding predators](https://doi.org/10.1002/ecy.70315)
 
 3. Suen et al. (2025). [The Impact of a Range-Shifting Predator Is Affected by Prey Preference and Composition](https://doi.org/10.1002/ece3.72538)
 
 4. Waite et al. (2023). [Demography across latitudinal and elevational gradients for range-expanding whelks.](https://www.int-res.com/abstracts/meps/v728/meps14349)
 
 **Data:**
-Intertidal community survey data can be downloaded from BCO-DMO: [https://www.bco-dmo.org/dataset/935622](https://www.bco-dmo.org/dataset/935622)
+Intertidal community survey data can be downloaded from BCO-DMO: [https://www.bco-dmo.org/dataset/935622](https://www.bco-dmo.org/dataset/935622). Experimental caging data associated with Beshai et al (2026) can be downloaded from Dryad: [https://doi.org/10.5061/dryad.83bk3jb3k](https://doi.org/10.5061/dryad.83bk3jb3k)
 
 **Collaborators (Alphabetically):** Paul E. Bourdeau (*California State Polytechnic University, Humboldt*), Lydia B. Ladah (*Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California, Mexico*), Julio Lorda (*Universidad Autónoma de Baja California, Mexico*), Cascade J.B. Sorte (Advisor, *University of California, Irvine*), Kyle J. Suen (*University of California, Irvine*), and Heidi Waite (currently at *California Ocean Science Trust*)
 
@@ -36,7 +35,7 @@ The global rate of establishment of human-driven exotic species is [increasing, 
 ![FoulingCommunityDevelopment.png](/images/FoulingCommunityDevelopment.png)
 *The development of a fouling community over approx. 4 months*
 
-**Products:** [Biotic resistance or invasional meltdown? Diversity reduces invasibility but not exotic dominance in southern California epibenthic communities. *Biological Invasions*, 25(2), 533-549.](https://link.springer.com/article/10.1007/s10530-022-02932-1)
+**Products:** Beshai et al (2022)[Biotic resistance or invasional meltdown? Diversity reduces invasibility but not exotic dominance in southern California epibenthic communities](https://link.springer.com/article/10.1007/s10530-022-02932-1)
 
 **Collaborators (Manuscript Order):** Amy K. Henry (*University of California, Irvine*), Danny A. Truong (*University of California, Irvine*), and Cascade J.B. Sorte (Advisor, *University of California, Irvine*)
 
@@ -64,7 +63,7 @@ The importance of direct competitive interactions in controlling population size
 ![ApparentCompetition.png](/images/ApparentCompetition.png)
 *In the diagram above, direct interactions are shown using solid black arrows, while the indirect interaction (apparent competition) is shown using a dashed grey arrow. Prey species therefore "compete" by increasing predation pressure by a shared enemy (or enemies) on each other.* 
 
-**Products**: [The role of enemy-mediated competition in determining the fitness of a generalist herbivore](https://bioone.org/journals/southwestern-entomologist/volume-44/issue-1/059.044.0108/The-Role-of-Enemy-Mediated-Competition-in-Determining-Fitness-of/10.3958/059.044.0108.short)
+**Products**: Beshai et al (2019)[The role of enemy-mediated competition in determining the fitness of a generalist herbivore](https://bioone.org/journals/southwestern-entomologist/volume-44/issue-1/059.044.0108/The-Role-of-Enemy-Mediated-Competition-in-Determining-Fitness-of/10.3958/059.044.0108.short)
 
 **Collaborators (Manuscript Order)**: Elizabeth E. Barnes (*Purdue University*), Shannon M. Murphy (advisor, *University of Denver*)
 
@@ -83,7 +82,7 @@ The San Francisco Bay Estuary provides critical habitat for a wide range of ecol
   <img src="/images/LoadedBoat.jpg" alt="Barnacles" style="width:30%;">
 </p>
 
-**I didn't author but that I contributed to:**
+**Science I didn't author but contributed to:**
 1. [Does tidal marsh restoration lead to the recovery of trophic pathways that support estuarine fishes?](https://doi.org/10.1002/eap.70110)
 
 2. [Impacts of Periodic Dredging on Macroinvertebrate Prey Availability for Benthic Foraging Fishes in Central San Francisco Bay, California](https://pubs.usgs.gov/publication/ofr20201086)
